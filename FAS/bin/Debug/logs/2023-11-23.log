@@ -1,0 +1,13 @@
+{ "time": "2023-11-23 09:10:57.6653", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 13:53:49.4257", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 13:54:12.9486", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 14:43:16.9558", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 15:34:58.9987", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 15:36:23.0197", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 15:38:40.2354", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 15:52:59.8216", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 15:53:46.6163", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 15:54:48.8686", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 15:55:35.6535", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 15:55:56.4971", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-23 16:12:59.4543", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }

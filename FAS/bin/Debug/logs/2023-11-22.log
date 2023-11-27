@@ -1,0 +1,14 @@
+{ "time": "2023-11-22 14:28:50.1861", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:30:05.5926", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:33:18.0912", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:39:21.9289", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:39:49.0497", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:41:07.8447", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:42:18.0381", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:43:09.3484", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:48:48.8096", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:49:27.2612", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:50:42.8222", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:52:11.1155", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:58:10.1375", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
+{ "time": "2023-11-22 14:58:26.3970", "level": "INFO", "logger": "FAS.Model.LogHelper", "message": "{\"UserName\":\"user1\",\"Describe\":\"登录成功\"}" }
